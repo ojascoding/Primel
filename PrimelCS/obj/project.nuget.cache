@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "od6MC46CxXlKtdW7JuzQgNdf4aFrpCUMwCX8mAdBKOXoHcbKYawyYRfwD+dwojQbcVTCDA5tjM+63Pd08QKTlg==",
+  "success": true,
+  "projectFilePath": "/Users/ojas/Desktop/C#_Projects/PrimelCS/PrimelCS/PrimelCS.csproj",
+  "expectedPackageFiles": [
+    "/Users/ojas/.nuget/packages/microsoft.netcore.app.runtime.osx-x64/6.0.2/microsoft.netcore.app.runtime.osx-x64.6.0.2.nupkg.sha512",
+    "/Users/ojas/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-x64/6.0.2/microsoft.aspnetcore.app.runtime.osx-x64.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

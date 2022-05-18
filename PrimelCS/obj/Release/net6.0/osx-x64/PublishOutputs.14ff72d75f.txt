@@ -1,0 +1,2 @@
+/Users/ojas/Desktop/C#_Projects/PrimelCS/PrimelCS/bin/Release/net6.0/publish/PrimelCS.pdb
+/Users/ojas/Desktop/C#_Projects/PrimelCS/PrimelCS/bin/Release/net6.0/publish/PrimelCS

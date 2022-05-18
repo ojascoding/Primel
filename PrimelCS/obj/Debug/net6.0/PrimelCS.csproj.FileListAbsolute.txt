@@ -1,0 +1,15 @@
+/Users/ojas/Desktop/C#_Projects/PrimelCS/PrimelCS/bin/Debug/net6.0/PrimelCS
+/Users/ojas/Desktop/C#_Projects/PrimelCS/PrimelCS/bin/Debug/net6.0/PrimelCS.deps.json
+/Users/ojas/Desktop/C#_Projects/PrimelCS/PrimelCS/bin/Debug/net6.0/PrimelCS.runtimeconfig.json
+/Users/ojas/Desktop/C#_Projects/PrimelCS/PrimelCS/bin/Debug/net6.0/PrimelCS.dll
+/Users/ojas/Desktop/C#_Projects/PrimelCS/PrimelCS/bin/Debug/net6.0/ref/PrimelCS.dll
+/Users/ojas/Desktop/C#_Projects/PrimelCS/PrimelCS/bin/Debug/net6.0/PrimelCS.pdb
+/Users/ojas/Desktop/C#_Projects/PrimelCS/PrimelCS/obj/Debug/net6.0/PrimelCS.csproj.AssemblyReference.cache
+/Users/ojas/Desktop/C#_Projects/PrimelCS/PrimelCS/obj/Debug/net6.0/PrimelCS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ojas/Desktop/C#_Projects/PrimelCS/PrimelCS/obj/Debug/net6.0/PrimelCS.AssemblyInfoInputs.cache
+/Users/ojas/Desktop/C#_Projects/PrimelCS/PrimelCS/obj/Debug/net6.0/PrimelCS.AssemblyInfo.cs
+/Users/ojas/Desktop/C#_Projects/PrimelCS/PrimelCS/obj/Debug/net6.0/PrimelCS.csproj.CoreCompileInputs.cache
+/Users/ojas/Desktop/C#_Projects/PrimelCS/PrimelCS/obj/Debug/net6.0/PrimelCS.dll
+/Users/ojas/Desktop/C#_Projects/PrimelCS/PrimelCS/obj/Debug/net6.0/ref/PrimelCS.dll
+/Users/ojas/Desktop/C#_Projects/PrimelCS/PrimelCS/obj/Debug/net6.0/PrimelCS.pdb
+/Users/ojas/Desktop/C#_Projects/PrimelCS/PrimelCS/obj/Debug/net6.0/PrimelCS.genruntimeconfig.cache
