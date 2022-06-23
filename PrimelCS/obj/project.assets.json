@@ -1,8 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {},
-    "net6.0/osx-x64": {}
+    "net6.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
@@ -14,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ojas/Desktop/C#_Projects/PrimelCS/PrimelCS/PrimelCS.csproj",
+      "projectUniqueName": "/Users/ojas/Desktop/C#_Projects/Primel/PrimelCS/PrimelCS.csproj",
       "projectName": "PrimelCS",
-      "projectPath": "/Users/ojas/Desktop/C#_Projects/PrimelCS/PrimelCS/PrimelCS.csproj",
+      "projectPath": "/Users/ojas/Desktop/C#_Projects/Primel/PrimelCS/PrimelCS.csproj",
       "packagesPath": "/Users/ojas/.nuget/packages/",
-      "outputPath": "/Users/ojas/Desktop/C#_Projects/PrimelCS/PrimelCS/obj/",
+      "outputPath": "/Users/ojas/Desktop/C#_Projects/Primel/PrimelCS/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ojas/.nuget/NuGet/NuGet.Config"
@@ -27,6 +26,7 @@
         "net6.0"
       ],
       "sources": {
+        "/usr/local/share/dotnet/x64/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -54,27 +54,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Runtime.osx-x64",
-            "version": "[6.0.2, 6.0.2]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Runtime.osx-x64",
-            "version": "[6.0.2, 6.0.2]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
         "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.102/RuntimeIdentifierGraph.json"
-      }
-    },
-    "runtimes": {
-      "osx-x64": {
-        "#import": []
       }
     }
   }
